@@ -1,0 +1,3 @@
+In Ver5, GUI and script version of motionrecon code shares the same core computation files. 
+Qual3DUnwrap.m is updated. The old time-saving mechanism is removed since it does not save much time. 
+
